@@ -49,13 +49,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 W3 Schools, Stack Overflow, mdn web docs
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+While I was doing the speed it up challenge, I was having a hard time trying to figure out how to update playSequenceClue. I set the variable to 200 and the clueLength to 5. I kept doing  delay += clueHoldTime - 40 to test how fast it would go and nothing changed. I then did delay += cluePauseTime - 40 and saw a difference, however, the difference was just a one time change and did not change each round. I looked up ways to speed up a game and found a site that had a similar project with a simon says game. I was looking through it and found out that I just had to return the variable and add 1. So I got rid of any changes I made and in the beginning of the function I put clueHoldTime = clueHoldTime - 50 to see if there was any drastic change that I would see. After doing this, I saw that each round got significantly quicker. To now make this game be within a reasonable time, I did 200 divided by 5 to get 40 for the number of milliseconds I needed to subtract. After changing the 50 to 40, I noticed that each round got quicker however, the last round was too fast and I was not able to see any of the colors that were pressed. I then changed the number to 35 and thought this was a perfect number to use as it would still make the final round doable.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After completing this project. I was wondering what other tags there are for html and how it would further improve this game for the pre-work. From doing this project, I realized that the backend part seems more easy for me since it is similar to what I did in previous CS classes. However, the frontend part was very confusing for me since I never did any type of frontend before. I would like to learn more about frontend coding and become more experienced in it. I also wondered if it was possible to make certain functions run faster through different variations in writing the code to make certain parts more smooth and fast.
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I would have liked to add some additional designs to make this web app feel less generic. I would have liked to make it a certain theme and make every button design be in that theme. This would have made the web app more appealing. In addition, I wanted to add an area where the user gets to make their own settings for the game such as number of rounds preferred, amount of time per round, and a hint button to replay to clues one more time with some type of penalty such as a time penalty or an extra round added on. 
+
 
 
 
