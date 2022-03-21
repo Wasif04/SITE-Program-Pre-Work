@@ -6,7 +6,7 @@ Submitted by: **Wasif Khan**
 
 Time spent: **4** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/pond-woolen-thunder?path=script.js%3A6%3A22
+Link to project: https://glitch.com/edit/#!/pond-woolen-thunder?path=index.html%3A17%3A41
 
 ## Required Functionality
 
