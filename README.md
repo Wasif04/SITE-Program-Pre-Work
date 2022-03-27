@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 1.) Game is functional and shows message that you have won after completing all turns. This also shows the patterns getting progressively faster.
 http://g.recordit.co/fYlPQ5BmVE.gif
 
