@@ -39,10 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x]http://g.recordit.co/fYlPQ5BmVE.gif
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+1.) Game is functional and shows message that you have won after completing all turns. This also shows the patterns getting progressively faster.
+http://g.recordit.co/fYlPQ5BmVE.gif
+
+2.) Game shows "you lose" message when you click on the wrong button and stops the game.
+http://g.recordit.co/XbEY0f6vb9.gif
+
+3.) Game starts with a new pattern every time you start a new game.
+http://g.recordit.co/5NzFVYUVVy.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
