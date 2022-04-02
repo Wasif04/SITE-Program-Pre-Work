@@ -45,6 +45,8 @@ http://g.recordit.co/fYlPQ5BmVE.gif
 
 http://g.recordit.co/kjlt278P1P.gif
 
+https://recordit.co/kjlt278P1P
+
 2.) Game shows "you lose" message when you click on the wrong button and stops the game.
 http://g.recordit.co/XbEY0f6vb9.gif
 
