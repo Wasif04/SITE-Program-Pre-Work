@@ -75,6 +75,11 @@ I would have liked to add some additional designs to make this web app feel less
 [My 5-minute Interview Recording](https://www.loom.com/share/7b86f7c11fc14906b9fadb4147aeaa59
 
 
+<a href="https://www.loom.com/share/7b86f7c11fc14906b9fadb4147aeaa59">
+    <p>Screen Shot - 1 April 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7b86f7c11fc14906b9fadb4147aeaa59-with-play.gif">
+  </a>
+
 ## License
 
     Copyright [Wasif Khan]
