@@ -43,6 +43,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 1.) Game is functional and shows message that you have won after completing all turns. This also shows the patterns getting progressively faster.
 http://g.recordit.co/fYlPQ5BmVE.gif
 
+http://g.recordit.co/kjlt278P1P.gif
+
 2.) Game shows "you lose" message when you click on the wrong button and stops the game.
 http://g.recordit.co/XbEY0f6vb9.gif
 
