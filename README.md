@@ -73,7 +73,7 @@ I would have liked to add some additional designs to make this web app feel less
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording]
-(https://www.loom.com/share/7b86f7c11fc14906b9fadb4147aeaa59)
+
 
 
 ## License
